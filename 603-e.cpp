@@ -3,6 +3,7 @@
 #include <vector>
 #include <algorithm> // for std::max
 using namespace std;
+//
 
 int solution(std::vector<std::vector<int>> financials)
 {
